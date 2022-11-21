@@ -1,0 +1,14 @@
+package jUnittestPackage;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class testAddNumber {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
